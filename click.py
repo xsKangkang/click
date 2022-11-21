@@ -119,6 +119,7 @@ def run():
 
 
 if __name__ == '__main__':
+    print('begin')
     run()
 
 # python click.py --classes pata --time 3600 --option option.json
